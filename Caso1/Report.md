@@ -16,7 +16,7 @@
 <br> </br>
 
 <h1 style="text-align: center;">Marketing UP Fitness</h1>
-<h2 style="text-align: center;">Case of study MAE</h2>
+<h2 style="text-align: center;">EDA</h2>
 <h3 style="text-align: center;">Eduardo Solano Jaime</h3>
 <h3 style="text-align: center;">0213663</h3>
 <h3 style="text-align: center;">Especialidad en Ciencia de Datos</h3>
@@ -28,9 +28,9 @@
 
 ## Objective
 
-The objective of this report is to conduct a comprehensive analysis of the marketing strategies and performance of the fitness company by identifying potential areas of improvement, and proposing data-driven solutions to enhance marketing outcomes. 
+The objective of this report is to conduct a comprehensive analysis of the marketing strategies and performance of the fitness company by identifying potential areas of improvement, and proposing data-driven solutions to enhance marketing outcomes.
 
-The MAE code can be consulted in the [Github repository](https://github.com/esolanoo/ProyectoTerminal_Ejercicios/tree/main/Caso1).
+The EDA code can be consulted in the [Github repository](https://github.com/esolanoo/ProyectoTerminal_Ejercicios/tree/main/Caso1).
 
 ## The Data
 
